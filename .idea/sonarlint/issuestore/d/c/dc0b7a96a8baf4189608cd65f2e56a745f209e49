@@ -1,0 +1,12 @@
+
+œ%squid:RedundantThrowsDeclarationCheck<"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(‘ÑÍY8œ¡¯¦ñ,
+%squid:RedundantThrowsDeclarationCheck"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(èÉÐ£8ì‰°¦ñ,
+osquid:S00117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ÑÍY8 Åîàî,
+Asquid:S11481"#Use a logger to log this exception.(ªéÓŒ8Ö‚áî,
+squid:S1450"\Remove the "dateConverter" field and declare it as a local variable in the relevant methods.(Á·Å¿úÿÿÿÿ8‹žËàî,
+Asquid:S11488"#Use a logger to log this exception.(ªéÓŒ8Ñ¡Èáî,
+~squid:S1450"`Remove the "timeZoneConverter" field and declare it as a local variable in the relevant methods.(ˆµÙ…8‹žËàî,
+Asquid:S1148*"#Use a logger to log this exception.(ªéÓŒ8”ùèàî,
+Fsquid:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8«ã»áî,
+Msquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Ãèàî,
+dsquid:S00112<"FDefine and throw a dedicated exception instead of using a generic one.(‘ÑÍY8œ¡¯¦ñ,
